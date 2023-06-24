@@ -1364,7 +1364,7 @@ const List<Country> countries = [
     code: "CN",
     dialCode: "86",
     minLength: 11,
-    maxLength: 12,
+    maxLength: 11,
   ),
   Country(
     name: "Christmas Island",
